@@ -1,4 +1,4 @@
-# AlgorithmExamples
+# Algorithm Examples
 
 
 ### Converter Matrix to Single Dimensional Array as a reverse spiral 
